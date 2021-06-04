@@ -1,2 +1,19 @@
-# vue3-ts-element-plus
-B站课程-vue3-ts-element-plus：登录注册功能
+# vue3-ts-elementplus
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
